@@ -1,7 +1,7 @@
 {
   "name": "client",
   "description": "Web client using Sveltekit, Routify, SMUI and WindiCSS for theming, with support of GraphQL through URQL.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "private": true,
   "scripts": {
